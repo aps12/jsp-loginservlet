@@ -12,7 +12,7 @@ To run the loginservelt.war file, Follow the following steps.
    - For Linux, TOMCAT_DIR/bin/startup.sh 
    - For windows, TOMCAT_DIR/bin/startup.bat
 
-5. Check the port location in your Tomcat page running after starting the server
+5. Check the port location in cmd running after starting the server
    - Visit the following website using your Web browser: http://localhost:port/LoginServlet
 
 6. Stop Tomcat: 
